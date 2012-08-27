@@ -1,0 +1,1 @@
+Trying to be more organised with my projects. These will be small programs designed and coded in a few hours looking at simple GUIs, Games, Simulations, problem solving.
