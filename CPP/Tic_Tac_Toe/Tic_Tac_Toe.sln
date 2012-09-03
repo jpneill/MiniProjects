@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tic_Tac_Toe", "Tic_Tac_Toe\Tic_Tac_Toe.vcxproj", "{BFFBDE82-80DB-436C-A9C4-0EF2911CDB1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFFBDE82-80DB-436C-A9C4-0EF2911CDB1F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFFBDE82-80DB-436C-A9C4-0EF2911CDB1F}.Debug|Win32.Build.0 = Debug|Win32
+		{BFFBDE82-80DB-436C-A9C4-0EF2911CDB1F}.Release|Win32.ActiveCfg = Release|Win32
+		{BFFBDE82-80DB-436C-A9C4-0EF2911CDB1F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
